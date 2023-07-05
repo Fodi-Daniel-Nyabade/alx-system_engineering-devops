@@ -12,3 +12,4 @@ changes the working directory to the previous one
 list in long format in all dir
 shows the filetype
 symbolic link
+copy html file
