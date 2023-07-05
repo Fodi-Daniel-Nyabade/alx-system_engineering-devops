@@ -13,3 +13,4 @@ list in long format in all dir
 shows the filetype
 symbolic link
 copy html file
+move all uppercase letters
