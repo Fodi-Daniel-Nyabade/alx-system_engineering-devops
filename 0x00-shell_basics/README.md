@@ -7,3 +7,4 @@ displays the content of a directory in a long  format and also include hidden fi
 creating a directory in /tmp
 moving a file from one directory to the other
 deleting a file from a directory
+deleting a directory
