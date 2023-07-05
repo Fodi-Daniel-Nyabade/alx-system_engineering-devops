@@ -5,3 +5,4 @@ displays the content of a directory in a long format
 displays the content of a directory including hidden files
 displays the content of a directory in a long  format and also include hidden files
 creating a directory in /tmp
+moving a file from one directory to the other
