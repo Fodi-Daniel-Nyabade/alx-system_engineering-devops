@@ -17,3 +17,4 @@ move all uppercase letters
 delete all files with ~ endings
 tree structure
 file names separated by , 
+creates a magic file
