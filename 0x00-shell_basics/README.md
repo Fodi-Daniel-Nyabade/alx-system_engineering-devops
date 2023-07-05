@@ -8,3 +8,4 @@ creating a directory in /tmp
 moving a file from one directory to the other
 deleting a file from a directory
 deleting a directory
+changes the working directory to the previous one
