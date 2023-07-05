@@ -10,3 +10,4 @@ deleting a file from a directory
 deleting a directory
 changes the working directory to the previous one
 list in long format in all dir
+shows the filetype
