@@ -12,3 +12,4 @@ to make the mode of two files the same
 [master f843917] Look in the mirror
  2 files changed, 3 insertions(+)
  create mode 100755 0x01-shell_permissions/10-mirror_permissions
+permission to all subdirectories
