@@ -9,3 +9,6 @@ adds execution permission to the owner, the group owner and the other users, to 
 sets all permissions to only the other users
 sets the mode of the file hello into a long format
 to make the mode of two files the same
+[master f843917] Look in the mirror
+ 2 files changed, 3 insertions(+)
+ create mode 100755 0x01-shell_permissions/10-mirror_permissions
