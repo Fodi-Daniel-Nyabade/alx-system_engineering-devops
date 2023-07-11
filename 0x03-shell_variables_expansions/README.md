@@ -7,6 +7,9 @@ Task-2, Add /action to the PATH
 
 Task-3,  counts the number of directories in the PATH
 
-Task-4, list all environment variables
+Task-4, list environment variables
 
 Task-5, list all variables and functions
+
+Task-6, creates a local variable
+
