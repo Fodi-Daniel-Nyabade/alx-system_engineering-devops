@@ -13,3 +13,4 @@ Task-5, list all variables and functions
 
 Task-6, creates a local variable
 
+Task-7, creates global variable
