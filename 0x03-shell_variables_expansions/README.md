@@ -26,3 +26,5 @@ Task-11, decimals
 Task-12, combination of letters
 
 Task-13, Floating numbers
+
+Task-14, convert from decimal to base 16
