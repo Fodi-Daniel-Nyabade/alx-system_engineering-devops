@@ -30,3 +30,7 @@ Task-13, Floating numbers
 Task-14, convert from decimal to base 16
 
 Task-15, encode and decode
+
+Task-16, prints every line
+
+Task-17, variable addition
