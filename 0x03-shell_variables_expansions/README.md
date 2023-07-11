@@ -20,3 +20,5 @@ Task-8, addition
 Task-9, division
 
 Task-10, exponential
+
+Task-11, decimals
