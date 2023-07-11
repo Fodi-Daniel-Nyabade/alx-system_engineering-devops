@@ -15,4 +15,6 @@ Task-6, creates a local variable
 
 Task-7, creates global variable
 
-Task-8, addition 
+Task-8, addition
+
+Task-9, division
