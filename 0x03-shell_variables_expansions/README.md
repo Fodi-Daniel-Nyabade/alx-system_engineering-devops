@@ -22,3 +22,7 @@ Task-9, division
 Task-10, exponential
 
 Task-11, decimals
+
+Task-12, combination of letters
+
+Task-13, Floating numbers
